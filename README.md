@@ -48,7 +48,7 @@ This is a Python-based tool that helps you find similar documents based on a que
     
     python document_similarity.py
 
-    # 🔧 Usage
+# 🔧 Usage
 
 Once the tool is running, you can interact with it through the following options:
 
